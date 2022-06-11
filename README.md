@@ -1,5 +1,5 @@
 # Atmega328 and Platformio
-Initial setup of platformio.ini to program the AVR atmega328 on board with arduinoISP
+Initial setup of platformio.ini to program the AVR atmega328 on board with arduino as ISP
 
 ## General Schema
 ![0_0001_LABELS png](https://user-images.githubusercontent.com/30707020/173197700-8b579155-aa00-4d6b-854d-7a510f06ae23.png)

@@ -1,6 +1,8 @@
 # atmega328_with_platformio
 Initial setup of platformio.ini to program the AVR atmega328 on board with arduinoISP
 General Schema and details
-![0_0001_LABELS png](https://user-images.githubusercontent.com/30707020/173196607-71f9b58d-3019-4601-b2c9-08eb39d12322.png)
-![0_0002_SUMMARY png](https://user-images.githubusercontent.com/30707020/173196589-17405262-5043-4c79-91a0-3d26f0cf97ba.png)
-![0_0000_ATMEGA-ONBOARD png](https://user-images.githubusercontent.com/30707020/173196620-5535357d-abd3-4bcd-9f58-80a64a807caf.png)
+
+![0_0001_LABELS png](https://user-images.githubusercontent.com/30707020/173197605-4db5c35a-c76d-4542-8975-ab66cc406378.png)
+![0_0002_SUMMARY png](https://user-images.githubusercontent.com/30707020/173197602-12b80039-d995-423f-97f8-0d64772dde8c.png)
+![0_0000_ATMEGA-ONBOARD png](https://user-images.githubusercontent.com/30707020/173197604-e969854d-99c0-4b58-aad6-6ddd06e63f64.png)
+
